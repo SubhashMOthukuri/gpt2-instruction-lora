@@ -10,7 +10,7 @@ This project demonstrates how to fine-tune a Seq2Seq language model using **LoRA
 
 ---
 
-## 🧠 Fine-Tuning Concepts Covered
+##  Fine-Tuning Concepts Covered
 
 | Method                                                | Description                                                                                    |
 | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
@@ -24,7 +24,7 @@ In this project, we apply **Supervised Fine-Tuning** using LoRA on a small instr
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 .
 ├── inference.py # Streamlit UI for model inference
@@ -40,7 +40,7 @@ Edit
 
 ---
 
-## 🏋️‍♂️ Fine-Tuning Pipeline (`finetuning.py`)
+##  Fine-Tuning Pipeline (`finetuning.py`)
 
 1. **Model Used:** `t5-small` (can replace with `gpt2` or other Seq2Seq models)
 2. **Dataset:** Custom JSON (`instruction_dataset.json`) with:
@@ -50,7 +50,7 @@ Edit
 3. **Training Method:** Supervised LoRA fine-tuning using `peft`
 4. **Trainer:** `Seq2SeqTrainer` from Hugging Face
 
-### 🔧 Run Fine-Tuning:
+###  Run Fine-Tuning:
 
 ```bash
 python finetuning.py
@@ -60,7 +60,7 @@ bash
 Copy
 Edit
 ./final_model_lora/
-💻 Inference UI with Streamlit (inference.py)
+ Inference UI with Streamlit (inference.py)
 Use a simple and clean web UI to test the model post-finetuning.
 
 🚀 Run the UI:
