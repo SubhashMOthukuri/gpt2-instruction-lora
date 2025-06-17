@@ -1,0 +1,478 @@
+[
+    {
+      "instruction": "Translate English to French",
+      "input": "How are you?",
+      "output": "Comment ça va?"
+    },
+    {
+      "instruction": "Translate English to French",
+      "input": "Good morning!",
+      "output": "Bonjour!"
+    },
+    {
+      "instruction": "Summarize the text",
+      "input": "The stock market showed significant gains today with technology stocks leading the rally.",
+      "output": "Technology stocks drove stock market gains today."
+    },
+    {
+      "instruction": "Summarize the text",
+      "input": "A new study shows that drinking coffee can improve cognitive functions in adults.",
+      "output": "Coffee may improve adult cognitive functions."
+    },
+    {
+      "instruction": "Answer the question",
+      "input": "What is the capital of Japan?",
+      "output": "Tokyo is the capital of Japan."
+    },
+    {
+      "instruction": "Answer the question",
+      "input": "Who wrote 'To Kill a Mockingbird'?",
+      "output": "Harper Lee wrote 'To Kill a Mockingbird'."
+    },
+    {
+      "instruction": "Classify sentiment",
+      "input": "I really loved the new movie! It was fantastic.",
+      "output": "Positive"
+    },
+    {
+      "instruction": "Classify sentiment",
+      "input": "The food was terrible and the service was slow.",
+      "output": "Negative"
+    },
+    {
+      "instruction": "Convert to formal tone",
+      "input": "Can you send me the report ASAP?",
+      "output": "Could you please send me the report at your earliest convenience?"
+    },
+    {
+      "instruction": "Convert to formal tone",
+      "input": "I wanna talk to you about the project.",
+      "output": "I would like to discuss the project with you."
+    },
+    {
+      "instruction": "Generate a title",
+      "input": "An article about the benefits of regular exercise.",
+      "output": "The Health Benefits of Regular Exercise"
+    },
+    {
+      "instruction": "Generate a title",
+      "input": "A blog post discussing the impact of social media on teenagers.",
+      "output": "How Social Media Affects Teenagers Today"
+    },
+    {
+      "instruction": "Explain the meaning",
+      "input": "What does 'photosynthesis' mean?",
+      "output": "Photosynthesis is the process by which green plants use sunlight to make food from carbon dioxide and water."
+    },
+    {
+      "instruction": "Explain the meaning",
+      "input": "Define 'blockchain'.",
+      "output": "Blockchain is a decentralized digital ledger used to record transactions securely."
+    },
+    {
+      "instruction": "Rewrite in simple language",
+      "input": "The proliferation of technology has transformed communication.",
+      "output": "Technology has changed the way we communicate."
+    },
+    {
+      "instruction": "Rewrite in simple language",
+      "input": "Photosynthesis is a complex biochemical process.",
+      "output": "Photosynthesis is how plants make food using sunlight."
+    },
+    {
+      "instruction": "Create a list",
+      "input": "List five benefits of drinking water.",
+      "output": "1. Hydrates the body\n2. Improves skin health\n3. Aids digestion\n4. Regulates body temperature\n5. Flushes out toxins"
+    },
+    {
+      "instruction": "Create a list",
+      "input": "List three popular programming languages.",
+      "output": "1. Python\n2. JavaScript\n3. Java"
+    },
+    {
+      "instruction": "Translate English to Spanish",
+      "input": "Good night and sweet dreams.",
+      "output": "Buenas noches y dulces sueños."
+    },
+    {
+      "instruction": "Translate English to Spanish",
+      "input": "Thank you very much.",
+      "output": "Muchas gracias."
+    },
+    {
+      "instruction": "Correct the grammar",
+      "input": "She don't like apples.",
+      "output": "She doesn't like apples."
+    },
+    {
+      "instruction": "Correct the grammar",
+      "input": "He go to school every day.",
+      "output": "He goes to school every day."
+    },
+    {
+      "instruction": "Write a thank you note",
+      "input": "Thank you for your help on the project.",
+      "output": "I appreciate your support on the project. Thank you!"
+    },
+    {
+      "instruction": "Write a thank you note",
+      "input": "Thanks for the quick response.",
+      "output": "Thank you for your prompt reply."
+    },
+    {
+      "instruction": "Explain like I'm five",
+      "input": "What is gravity?",
+      "output": "Gravity is what makes things fall down to the ground."
+    },
+    {
+      "instruction": "Explain like I'm five",
+      "input": "What is electricity?",
+      "output": "Electricity is what makes things like lights and TVs work."
+    },
+    {
+      "instruction": "Summarize in one sentence",
+      "input": "The conference focused on renewable energy sources and their impact on climate change.",
+      "output": "The conference discussed how renewable energy affects climate change."
+    },
+    {
+      "instruction": "Summarize in one sentence",
+      "input": "Eating fruits and vegetables regularly can improve overall health and reduce disease risk.",
+      "output": "Regular fruit and vegetable intake improves health and lowers disease risk."
+    },
+    {
+      "instruction": "Generate a question",
+      "input": "Write a question about the benefits of exercise.",
+      "output": "What are the benefits of regular exercise?"
+    },
+    {
+      "instruction": "Generate a question",
+      "input": "Write a question about climate change.",
+      "output": "What causes climate change?"
+    },
+    {
+      "instruction": "Paraphrase the sentence",
+      "input": "She was very happy with the results.",
+      "output": "She felt extremely pleased with the outcomes."
+    },
+    {
+      "instruction": "Paraphrase the sentence",
+      "input": "The weather is nice today.",
+      "output": "Today’s weather is pleasant."
+    },
+    {
+      "instruction": "Explain a joke",
+      "input": "Why did the chicken cross the road?",
+      "output": "To get to the other side — it's a classic joke playing on expectation."
+    },
+    {
+      "instruction": "Explain a joke",
+      "input": "What do you call a bear with no teeth?",
+      "output": "A gummy bear — because it has no teeth."
+    },
+    {
+      "instruction": "Write a short poem",
+      "input": "Write a poem about spring.",
+      "output": "Spring blooms with colors bright,\nBirds sing songs of pure delight."
+    },
+    {
+      "instruction": "Write a short poem",
+      "input": "Write a poem about the ocean.",
+      "output": "The ocean waves crash on the shore,\nWhispering secrets forevermore."
+    },
+    {
+      "instruction": "Give advice",
+      "input": "How can I improve my study habits?",
+      "output": "Set a regular schedule, take breaks, and minimize distractions."
+    },
+    {
+      "instruction": "Give advice",
+      "input": "How do I stay healthy?",
+      "output": "Eat balanced meals, exercise regularly, and get enough sleep."
+    },
+    {
+      "instruction": "Create a dialogue",
+      "input": "Write a short dialogue between two friends about weekend plans.",
+      "output": "A: What are you doing this weekend?\nB: I might go hiking. You?\nA: I’m thinking about a movie night."
+    },
+    {
+      "instruction": "Create a dialogue",
+      "input": "Write a conversation between a customer and a waiter.",
+      "output": "Customer: Can I see the menu?\nWaiter: Of course, here you go."
+    },
+    {
+      "instruction": "Explain an idiom",
+      "input": "What does 'break the ice' mean?",
+      "output": "It means to start a conversation in a social situation."
+    },
+    {
+      "instruction": "Explain an idiom",
+      "input": "What does 'hit the sack' mean?",
+      "output": "It means to go to bed."
+    },
+    {
+      "instruction": "Convert to casual tone",
+      "input": "Could you please send me the files?",
+      "output": "Can you send me the files?"
+    },
+    {
+      "instruction": "Convert to casual tone",
+      "input": "I am looking forward to our meeting.",
+      "output": "Can’t wait for our meeting!"
+    },
+    {
+      "instruction": "Write a greeting",
+      "input": "Write a greeting for a birthday card.",
+      "output": "Happy Birthday! Wishing you a fantastic day."
+    },
+    {
+      "instruction": "Write a greeting",
+      "input": "Write a greeting for a new job.",
+      "output": "Congratulations on your new job! Wishing you success."
+    },
+    {
+      "instruction": "Explain a proverb",
+      "input": "What does 'Actions speak louder than words' mean?",
+      "output": "What people do is more important than what they say."
+    },
+    {
+      "instruction": "Explain a proverb",
+      "input": "What does 'A picture is worth a thousand words' mean?",
+      "output": "An image can express ideas more effectively than words."
+    },
+    {
+        "instruction": "Summarize the text",
+        "input": "The new smartphone has a longer battery life and improved camera features compared to the previous model.",
+        "output": "The smartphone offers better battery life and camera."
+      },
+      {
+        "instruction": "Answer the question based on the text",
+        "input": "Text: The Eiffel Tower is located in Paris, France. Question: Where is the Eiffel Tower located?",
+        "output": "Paris, France"
+      },
+      {
+        "instruction": "Translate the following sentence to French",
+        "input": "The weather is nice today.",
+        "output": "Il fait beau aujourd'hui."
+      },
+      {
+        "instruction": "Explain the meaning of the phrase",
+        "input": "Break a leg",
+        "output": "It means 'good luck' especially before a performance."
+      },
+      {
+        "instruction": "Convert the following sentence to passive voice",
+        "input": "The chef cooked a delicious meal.",
+        "output": "A delicious meal was cooked by the chef."
+      },
+      {
+        "instruction": "Correct the grammar mistakes in the sentence",
+        "input": "She don't like to play football.",
+        "output": "She doesn't like to play football."
+      },
+      {
+        "instruction": "Generate a short poem about summer",
+        "input": "",
+        "output": "Golden sun so bright and high,\nWarm breezes whisper through the sky.\nDays of laughter, nights so clear,\nSummer's magic drawing near."
+      },
+      {
+        "instruction": "Summarize the text",
+        "input": "Electric cars are becoming popular because they are environmentally friendly and reduce pollution.",
+        "output": "Electric cars are popular for being eco-friendly and reducing pollution."
+      },
+      {
+        "instruction": "Answer the question based on the text",
+        "input": "Text: Water boils at 100 degrees Celsius. Question: At what temperature does water boil?",
+        "output": "100 degrees Celsius"
+      },
+      {
+        "instruction": "Translate the following sentence to Spanish",
+        "input": "I love reading books.",
+        "output": "Me encanta leer libros."
+      },
+      {
+        "instruction": "Explain the meaning of the idiom",
+        "input": "Piece of cake",
+        "output": "It means something very easy to do."
+      },
+      {
+        "instruction": "Rewrite the sentence in formal tone",
+        "input": "Can you give me that report?",
+        "output": "Could you please provide me with that report?"
+      },
+      {
+        "instruction": "Correct the spelling mistakes",
+        "input": "Teh quikc brown fox jmps over teh lazi dog.",
+        "output": "The quick brown fox jumps over the lazy dog."
+      },
+      {
+        "instruction": "Generate a motivational quote",
+        "input": "",
+        "output": "Success is not final; failure is not fatal: It is the courage to continue that counts."
+      },
+      {
+        "instruction": "Summarize the text",
+        "input": "The new park will provide green space and recreational facilities for the neighborhood.",
+        "output": "The park offers green space and recreation for locals."
+      },
+      {
+        "instruction": "Answer the question based on the text",
+        "input": "Text: The sun rises in the east. Question: Where does the sun rise?",
+        "output": "In the east"
+      },
+      {
+        "instruction": "Translate the following sentence to German",
+        "input": "Good morning, how are you?",
+        "output": "Guten Morgen, wie geht es dir?"
+      },
+      {
+        "instruction": "Explain the meaning of the phrase",
+        "input": "Hit the sack",
+        "output": "It means to go to bed or sleep."
+      },
+      {
+        "instruction": "Convert the following sentence to active voice",
+        "input": "The book was read by the student.",
+        "output": "The student read the book."
+      },
+      {
+        "instruction": "Correct the grammar mistakes in the sentence",
+        "input": "They is going to the market.",
+        "output": "They are going to the market."
+      },
+      {
+        "instruction": "Summarize the paragraph.",
+        "input": "Artificial intelligence is transforming industries by enabling automation, improving efficiency, and driving innovation across various sectors including healthcare, finance, and transportation.",
+        "output": "AI is revolutionizing industries by enabling automation and boosting innovation."
+      },
+      {
+        "instruction": "Translate to French.",
+        "input": "Where is the nearest hospital?",
+        "output": "Où est l'hôpital le plus proche ?"
+      },
+      {
+        "instruction": "Provide a synonym for the word.",
+        "input": "Happy",
+        "output": "Joyful"
+      },
+      {
+        "instruction": "Classify the sentiment.",
+        "input": "I had the worst experience with this product.",
+        "output": "Negative"
+      },
+      {
+        "instruction": "Convert to passive voice.",
+        "input": "The manager approved the budget.",
+        "output": "The budget was approved by the manager."
+      },
+      {
+        "instruction": "Perform task 6: summarize the sentence.",
+        "input": "This is an example input sentence number 6, containing some information about task 6.",
+        "output": "This is a summary of task 6 input."
+      },
+      {
+        "instruction": "Perform task 7: summarize the sentence.",
+        "input": "This is an example input sentence number 7, containing some information about task 7.",
+        "output": "This is a summary of task 7 input."
+      },
+      {
+        "instruction": "Perform task 8: summarize the sentence.",
+        "input": "This is an example input sentence number 8, containing some information about task 8.",
+        "output": "This is a summary of task 8 input."
+      },
+      {
+        "instruction": "Perform task 9: summarize the sentence.",
+        "input": "This is an example input sentence number 9, containing some information about task 9.",
+        "output": "This is a summary of task 9 input."
+      },
+      {
+        "instruction": "Perform task 10: summarize the sentence.",
+        "input": "This is an example input sentence number 10, containing some information about task 10.",
+        "output": "This is a summary of task 10 input."
+      },
+      {
+        "instruction": "Perform task 11: summarize the sentence.",
+        "input": "This is an example input sentence number 11, containing some information about task 11.",
+        "output": "This is a summary of task 11 input."
+      },
+      {
+        "instruction": "Perform task 12: summarize the sentence.",
+        "input": "This is an example input sentence number 12, containing some information about task 12.",
+        "output": "This is a summary of task 12 input."
+      },
+      {
+        "instruction": "Perform task 13: summarize the sentence.",
+        "input": "This is an example input sentence number 13, containing some information about task 13.",
+        "output": "This is a summary of task 13 input."
+      },
+      {
+        "instruction": "Perform task 14: summarize the sentence.",
+        "input": "This is an example input sentence number 14, containing some information about task 14.",
+        "output": "This is a summary of task 14 input."
+      },
+      {
+        "instruction": "Perform task 15: summarize the sentence.",
+        "input": "This is an example input sentence number 15, containing some information about task 15.",
+        "output": "This is a summary of task 15 input."
+      },
+      {
+        "instruction": "Perform task 16: summarize the sentence.",
+        "input": "This is an example input sentence number 16, containing some information about task 16.",
+        "output": "This is a summary of task 16 input."
+      },
+      {
+        "instruction": "Perform task 17: summarize the sentence.",
+        "input": "This is an example input sentence number 17, containing some information about task 17.",
+        "output": "This is a summary of task 17 input."
+      },
+      {
+        "instruction": "Perform task 18: summarize the sentence.",
+        "input": "This is an example input sentence number 18, containing some information about task 18.",
+        "output": "This is a summary of task 18 input."
+      },
+      {
+        "instruction": "Perform task 19: summarize the sentence.",
+        "input": "This is an example input sentence number 19, containing some information about task 19.",
+        "output": "This is a summary of task 19 input."
+      },
+      {
+        "instruction": "Perform task 20: summarize the sentence.",
+        "input": "This is an example input sentence number 20, containing some information about task 20.",
+        "output": "This is a summary of task 20 input."
+      },
+      {
+        "instruction": "Perform task 21: summarize the sentence.",
+        "input": "This is an example input sentence number 21, containing some information about task 21.",
+        "output": "This is a summary of task 21 input."
+      },
+      {
+        "instruction": "Perform task 22: summarize the sentence.",
+        "input": "This is an example input sentence number 22, containing some information about task 22.",
+        "output": "This is a summary of task 22 input."
+      },
+      {
+        "instruction": "Perform task 23: summarize the sentence.",
+        "input": "This is an example input sentence number 23, containing some information about task 23.",
+        "output": "This is a summary of task 23 input."
+      },
+      {
+        "instruction": "Perform task 24: summarize the sentence.",
+        "input": "This is an example input sentence number 24, containing some information about task 24.",
+        "output": "This is a summary of task 24 input."
+      },
+      {
+        "instruction": "Perform task 25: summarize the sentence.",
+        "input": "This is an example input sentence number 25, containing some information about task 25.",
+        "output": "This is a summary of task 25 input."
+      },
+      {
+        "instruction": "Perform task 26: summarize the sentence.",
+        "input": "This is an example input sentence number 26, containing some information about task 26.",
+        "output": "This is a summary of task 26 input."
+      },
+    
+      {
+        "instruction": "Perform task 70: summarize the sentence.",
+        "input": "This is an example input sentence number 70, containing some information about task 70.",
+        "output": "This is a summary of task 70 input."
+      }
+  ]
